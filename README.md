@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hii 👋 , I'm [Naman Gupta](https://www.linkedin.com/in/namangupta884)
 
-<!--
-**naman884/naman884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<a href="https://www.linkedin.com/in/namangupta884">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://public.tableau.com/app/profile/namangupta#!/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />
+</a>
+<a href="https://medium.com/@naman884">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 💬
+I consider myself a lifelong learner - infinitely curious and I hope there always remains a subject or theory I can latch on to and learn and if I can actually use these things to help the world in some way? Awesome!
