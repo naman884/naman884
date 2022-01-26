@@ -10,6 +10,10 @@
 <a href="https://medium.com/@naman884">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+</a>
+<a href="https://www.kaggle.com/naman884/code">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
+</a>
 <br>
 <br>
 
