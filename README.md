@@ -2,7 +2,7 @@
 
 <br>
 <a href="https://www.credly.com/users/ngupta/badges">
-  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/128/2838/premium/2838786.png?token=exp=1643308819~hmac=21b27aaba689d19c99dd3ab7411c08f2" />
+  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/128/2838/premium/2838786.png?token=exp=1644998038~hmac=850b9668467b8ddf6e22ce70a6999b87" />
 </a>
 <a href="https://www.linkedin.com/in/namangupta884">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
