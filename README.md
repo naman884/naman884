@@ -20,5 +20,5 @@
 <br>
 <br>
 
-### About Me 💬
+### About Me
 I consider myself a lifelong learner - Every day I push myself to learn something new, whether that be about machine learning, software engineering, or any miscellaneous facts about the universe and I hope there always remains a subject or theory I can latch on to and learn and if I can actually use these things to help the world in some way, Awesome!!
