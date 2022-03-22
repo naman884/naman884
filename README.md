@@ -2,7 +2,7 @@
 
 <br>
 <a href="https://www.credly.com/users/ngupta/badges">
-  <img align="left" width="26px" src="https://github.com/naman884/naman884/blob/main/icon1.png" />
+  <img align="left" width="26px" src="https://github.com/naman884/naman884/blob/main/iconb.svg" />
 </a>
 <a href="https://www.linkedin.com/in/namangupta884">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
